@@ -1,13 +1,13 @@
 # 💫 About Me
 
--👋 Hi, I’m Abir
--🎓 CSE student at Southeast University
--💻 Passionate about Web Development
--🎨 Skilled in Frontend Development
--⚙️ Currently learning Backend Development to become a full-stack developer
--🚀 Love building modern, user-friendly web applications
--🧠 Strong interest in problem-solving & logical thinking
--📚 Always learning new technologies and improving my skills
+* 👋 Hi, I’m **Abir**
+* 🎓 CSE Student at Southeast University
+* 💻 Passionate about **Web Development**
+* 🎨 Skilled in **Frontend Development**
+* ⚙️ Currently learning **Backend Development** to become a **Full-Stack Developer**
+* 🚀 Love building modern, user-friendly web applications
+* 🧠 Strong interest in **problem-solving & logical thinking**
+* 📚 Always learning new technologies and improving my skills
 
 ---
 
