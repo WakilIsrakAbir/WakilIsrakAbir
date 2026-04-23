@@ -11,6 +11,12 @@
 
 ---
 
+# Hello 👋
+
+![Typing](https://readme-typing-svg.herokuapp.com?lines=Hello+Abir;GitHub+Profile+Working!)
+
+---
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/wakil_israk_abir/)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wakil-israk-abir/)  
