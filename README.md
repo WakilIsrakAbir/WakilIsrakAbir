@@ -1,21 +1,18 @@
-# 💫 About Me
+## 💫 About Me
 
-* 👋 Hi, I’m **Abir**
-* 🎓 CSE Student at Southeast University
-* 💻 Passionate about **Web Development**
-* 🎨 Skilled in **Frontend Development**
-* ⚙️ Currently learning **Backend Development** to become a **Full-Stack Developer**
-* 🚀 Love building modern, user-friendly web applications
-* 🧠 Strong interest in **problem-solving & logical thinking**
-* 📚 Always learning new technologies and improving my skills
+const abir = {
+  name: "Abir",
+  education: "CSE Student at Southeast University, Dhaka",
+  passion: "Web Development",
+  skills: ["Frontend Development"],
+  currentlyLearning: ["Backend Development"],
+  interests: ["Building web apps", "Problem Solving"],
+  mindset: "Always learning and improving"
+};
 
----
+console.log(abir);
 
-# Hello 👋
-
-![Typing](https://readme-typing-svg.herokuapp.com?lines=Hello+Abir;GitHub+Profile+Working!)
-
----
+```
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/wakil_israk_abir/)  
