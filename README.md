@@ -1,5 +1,6 @@
 ## 💫 About Me
 
+```
 const abir = {
   name: "Abir",
   education: "CSE Student at Southeast University, Dhaka",
@@ -11,6 +12,7 @@ const abir = {
 };
 
 console.log(abir);
+```
 
 ---
 
