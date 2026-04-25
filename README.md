@@ -5,8 +5,8 @@ const abir = {
   name: "Abir",
   education: "CSE Student at Southeast University, Dhaka",
   passion: "Web Development",
-  skills: ["Frontend Development"],
-  currentlyLearning: ["Backend Development"],
+  skills: "Frontend Development",
+  currentlyLearning: "Backend Development",
   interests: ["Building web apps", "Problem Solving"],
   mindset: "Always learning and improving"
 };
