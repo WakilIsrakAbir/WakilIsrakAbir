@@ -60,7 +60,6 @@ console.log(abir);
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=WakilIsrakAbir&theme=calm_pink&hide_border=false)
 
 ![](https://streak-stats.demolab.com/?user=WakilIsrakAbir&theme=calm_pink&hide_border=false)
 
